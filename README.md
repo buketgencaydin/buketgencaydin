@@ -8,9 +8,7 @@ Skills: C / C++ / Java / Python
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/buketgencaydin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/buketgencaydin//)  
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@<buketgencaydin>/<articleNumber>"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@<username>/<articleNumber>" alt="Recent article #1"></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buketgencaydin)](https://github.com/anuraghazra/github-readme-stats)
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@<buketgencaydin>/<0>"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@<buketgencaydin>/<0>" alt="Recent article #1"></a>
 
 ![GitHub metrics](https://metrics.lecoq.io/buketgencaydin)  
 
