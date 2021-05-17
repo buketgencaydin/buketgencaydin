@@ -7,9 +7,10 @@ Skills: C / C++ / Java / Python
  
 - 🌱 I’m currently learning phases of machine learning such as preprocessing, pipelining, hyperparameter tuning and cross validation using pandas, NumPy, xgboost, Skicit-Learn libraries. 
 
-- 📝 Check my recent post on Medium! 
+- 📝 Check my recent posts on Medium! 
 
     <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@buketgencaydin/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@buketgencaydin/0" alt="Recent Article 0"></a>
+     <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@buketgencaydin/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@buketgencaydin/1" alt="Recent Article 1"></a>
 
 
 
