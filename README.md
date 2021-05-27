@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buketgencaydin&label=Profile%20views&color=0e75b6&style=flat" alt="buketgencaydin" /> </p>
 
-- 🔭 I’m currently working on **a cybersecurity project named "WARNING: A Defense-in-depth Cyber Intelligence Platform to Defend Against Emerging Cyber Attacks" as a researcher.**
+- 🔭 I’m currently working on **TEKNOFEST 2021 Competition - Artificial Intelligence in Health.**
 
 - 🌱 I’m currently learning **phases of machine learning such as preprocessing, pipelining, hyperparameter tuning and cross validation using pandas, NumPy, xgboost, Skicit-Learn libraries.**
 
