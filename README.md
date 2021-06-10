@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **phases of machine learning such as preprocessing, pipelining, hyperparameter tuning and cross validation using pandas, NumPy, xgboost, Skicit-Learn libraries.**
 
-- 📝 I regularly write articles on [https://buketgencaydin.medium.com/](https://buketgencaydin.medium.com/)
+- 📝 I regularly write articles on **[https://buketgencaydin.medium.com/](https://buketgencaydin.medium.com/)**
 
 - 📫 How to reach me **buketgencaydin@gmail.com**
 
