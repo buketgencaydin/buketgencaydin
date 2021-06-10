@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buketgencaydin&label=Profile%20views&color=0e75b6&style=flat" alt="buketgencaydin" /> </p>
 
+- 🔭 I will do an internship in  **Doğuş Technology** as **Long-Term Cyber Security Intern**
+
 - 🔭 I’m currently working on **TEKNOFEST 2021 Competition - Artificial Intelligence in Health.**
 
 - 🌱 I’m currently learning **phases of machine learning such as preprocessing, pipelining, hyperparameter tuning and cross validation using pandas, NumPy, xgboost, Skicit-Learn libraries.**
