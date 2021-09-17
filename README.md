@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning **SIEM & SOC**
 
 - 📝 I regularly write articles on **[https://buketgencaydin.medium.com/](https://buketgencaydin.medium.com/)**
+- 📝 https://binyaprak.com/yazilar/siber-guvenlik-meraklilari-icin-dizi-film-onerileri
+- 📝 https://binyaprak.com/yazilar/siber-guvenlikte-kariyer-yollari
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
