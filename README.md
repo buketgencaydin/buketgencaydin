@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Buket</h1>
-<h3 align="center">I am second year computer engineering student with an interest in cybersecurity, machine learning, cryptology and logic.</h3>
+<h3 align="center">I am third year computer engineering student with an interest in cybersecurity, machine learning, cryptology and logic.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buketgencaydin&label=Profile%20views&color=0e75b6&style=flat" alt="buketgencaydin" /> </p>
 
