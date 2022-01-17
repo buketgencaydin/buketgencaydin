@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buketgencaydin&label=Profile%20views&color=0e75b6&style=flat" alt="buketgencaydin" /> </p>
 
-- 🔭 I'm currently doing an internship in  **Doğuş Technology** as **Long-Term Cyber Security Intern**
+- 🔭 I'm currently doing an internship in  **Siemens** as **Cyber Security Working Student**
 
-- 🌱 I’m currently learning **SIEM & SOC**
+- 🌱 I’m currently learning **Product&Solution Security**
 
 - 📝 I regularly write articles on **[https://buketgencaydin.medium.com/](https://buketgencaydin.medium.com/)**
 
