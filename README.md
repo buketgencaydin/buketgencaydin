@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buketgencaydin&label=Profile%20views&color=0e75b6&style=flat" alt="buketgencaydin" /> </p>
 
-- 🔭 I'm currently doing an internship in  **Siemens** as **Cyber Security Working Student**
+- 🔭 I'm currently working at  **Siemens** as **Cyber Security Working Student**
 
 - 🌱 I’m currently learning **Product&Solution Security**
 
