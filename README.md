@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buketgencaydin&label=Profile%20views&color=0e75b6&style=flat" alt="buketgencaydin" /> </p>
 
-- 🔭 I'm currently working at  **Siemens** as **Cyber Security Working Student**
+- 🔭 I'm currently working at  **Procter&Gamble** as **Information Technology Intern**
 
-- 🌱 I’m currently learning **Product&Solution Security**
+- 🌱 I’m currently learning **Web Application Security**
 
 - 📝 I regularly write articles on **[https://buketgencaydin.medium.com/](https://buketgencaydin.medium.com/)**
 
