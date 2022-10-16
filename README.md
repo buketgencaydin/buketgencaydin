@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Buket</h1>
-<h3 align="center">I am third year computer engineering student with an interest in cybersecurity, entrepreneurship and gender equity.</h3>
+<h3 align="center">I am a senior computer engineering student with an interest in cybersecurity, entrepreneurship and gender equity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buketgencaydin&label=Profile%20views&color=0e75b6&style=flat" alt="buketgencaydin" /> </p>
 
-- 🔭 I'm currently working at  **Procter&Gamble** as **Information Technology Intern**
+- 🌱 I’m currently learning **Mobile Communication Networks, Natural Language Processing and Integrated Circuits**
 
-- 🌱 I’m currently learning **Web Application Security**
-
-- 📝 I regularly write articles on **[https://buketgencaydin.medium.com/](https://buketgencaydin.medium.com/)**
+- 📝 I write articles on **[https://buketgencaydin.medium.com/](https://buketgencaydin.medium.com/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
