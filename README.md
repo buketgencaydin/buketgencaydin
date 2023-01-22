@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Mobile Communication Networks, Natural Language Processing and Integrated Circuits**
 
 - 📝 I write articles on **[https://buketgencaydin.medium.com/](https://buketgencaydin.medium.com/)**
-- Latest article:  **[Blockchain Security Best Practices: How to Secure Your Transactions in a Decentralized World]([https://buketgencaydin.medium.com/](https://medium.com/@buketgencaydin/blockchain-security-best-practices-how-to-secure-your-transactions-in-a-decentralized-world-51aa778f560e))** 
+- Latest article:  **[Blockchain Security Best Practices: How to Secure Your Transactions in a Decentralized World](https://buketgencaydin.medium.com/](https://medium.com/@buketgencaydin/blockchain-security-best-practices-how-to-secure-your-transactions-in-a-decentralized-world-51aa778f560e)** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
