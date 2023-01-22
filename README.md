@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Mobile Communication Networks, Natural Language Processing and Integrated Circuits**
 
 - 📝 I write articles on **[https://buketgencaydin.medium.com/](https://buketgencaydin.medium.com/)**
-- Latest article: https://github-readme-medium-recent-article.vercel.app/medium/buketgencaydin/0
+- Latest article: <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@buketgencaydin/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@buketgencaydin/0" alt="Recent Article 0"> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
