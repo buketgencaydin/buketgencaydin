@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buketgencaydin&label=Profile%20views&color=0e75b6&style=flat" alt="buketgencaydin" /> </p>
 
-- 🌱 I’m currently learning **Mobile Communication Networks, Natural Language Processing and Integrated Circuits**
+- 🌱 I’m currently learning **Solana, Human Computer Interaction and Network & Information Security**
 
 - 📝 I write articles on **[https://buketgencaydin.medium.com/](https://buketgencaydin.medium.com/)**
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@buketgencaydin/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@buketgencaydin/0" alt="Recent Article 0"> 
